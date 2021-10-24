@@ -31,7 +31,7 @@ h2 {
   margin: 20px;
   padding: 20px;
   width: 40%;
-  height: auto;
+  height: 600px;
   float: left;
   background-color: #f4e1d2;
 }
@@ -41,10 +41,20 @@ h2 {
   margin: 20px;
   padding: 20px;
   width: 40%;
-  height: auto;
+  height: 500px;
   overflow:auto;
-  float: left;
+  float: right;
   background-color: #f4e1d2;
+}
+
+.Background {
+  border: 1px solid grey;
+  margin: 20px;
+  padding: 20px;
+  width: 40%;
+  height: 450px;
+  float: left;
+  background-color: #f4e1d2
 }
 
 .Baylee {
@@ -52,7 +62,7 @@ h2 {
   margin: 20px;
   padding: 20px;
   width: 40%;
-  height: 450px;
+  height: 400px;
   overflow:auto;
   float: right;
   background-color: #f4e1d2;
